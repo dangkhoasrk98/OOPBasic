@@ -1,0 +1,14 @@
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\bin\Debug\netcoreapp3.1\OOPBasic.exe
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\bin\Debug\netcoreapp3.1\OOPBasic.deps.json
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\bin\Debug\netcoreapp3.1\OOPBasic.runtimeconfig.json
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\bin\Debug\netcoreapp3.1\OOPBasic.runtimeconfig.dev.json
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\bin\Debug\netcoreapp3.1\OOPBasic.dll
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\bin\Debug\netcoreapp3.1\OOPBasic.pdb
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.csproj.AssemblyReference.cache
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.AssemblyInfoInputs.cache
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.AssemblyInfo.cs
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.csproj.CoreCompileInputs.cache
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.dll
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.pdb
+C:\Users\DANGKHOA\Desktop\OOP\OOPBasic\OOPBasic\obj\Debug\netcoreapp3.1\OOPBasic.genruntimeconfig.cache
